@@ -1,0 +1,5 @@
+patient_id,patient_name,hrv_rmssd,eda_scl,eda_scr_count,skin_temp,sleep_hours,physical_activity,clinical_note
+P001,John Doe,21.5,8.4,7,34.2,4.2,0,Severe cumulative sleep debt and workplace cognitive overload
+P002,Jane Smith,35.0,7.9,6,35.1,7.5,1,Recently finished moderate-intensity aerobic jogging session
+P003,Robert Davis,65.2,1.8,1,33.4,8.0,0,Normative resting weekend physiological baseline
+P004,Emily White,38.0,4.2,4,33.8,5.8,0,Borderline physiological fluctuations near classification threshold
